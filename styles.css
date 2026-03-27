@@ -5,6 +5,10 @@
 	gap:10px;
 	background-color:aqua;
 }
+.item{
+	border:2px solid black;
+	border-radius:25px;
+}
 .item-1{
 	background-color:red;
 }
